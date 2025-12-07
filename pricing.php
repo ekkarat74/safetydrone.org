@@ -89,13 +89,29 @@
     <div class="page-wrapper">
       <div class="content-container">
         <div class="column-left">
-          <h1>One Plan - Priced For Public Budgets</h1>
-          <h2 class="sub-header long">SafetyDrone was developed with the idea that 1st Responders and Emergency Management Professionals should
-            be able to access all available features for one price. We understand that these are public budgets
-            that need to be justified. As such we have priced our platform to allow for access to all interested
-            users. At 60$ per user per year it is 75% less than our commercial plans. All we ask is you use your
-            government email when registering. It's that simple. There is a free plan for those who wish to see how
-            the basic site works prior to purchasing.</h2>
+          <h1>One Plan - Priced for Public Safety Budgets</h1>
+          <h2 class="sub-header long">SafetyDrone is built on a simple idea: first responders and emergency management professionals 
+            shouldn’t have to choose between features and affordability. 
+            Instead of complex tiers and hidden add-ons, we offer <b>one full-featured plan</b> 
+            so every agency gets the same powerful UAS compliance, 
+            logging, and reporting tools.
+            <br><br>
+            We also understand you’re working with <b>taxpayer-funded, highly scrutinized budgets</b>
+            that must be easy to justify. That’s why SafetyDrone is priced at just <b>$60 per user per year</b>
+            —roughly <b>75% less than our commercial plans</b>—making it realistic for police, fire, EMS, SAR, and 
+            emergency management teams of all sizes to standardize on a single drone 
+            operations platform.
+            <br><br>
+            To keep SafetyDrone focused on true public safety users, we simply ask that you 
+            <b>register with a government or official work email address.</b> 
+            That’s it—no complicated procurement hoops just to get started.
+            <br><br>
+            Want to test it first? There is a <b>free plan</b> so you can see how the 
+            core site works, explore the workflow, and validate it with your command 
+            staff before committing. And for agencies ready to dive deeper, we offer 
+            a <b>2-month free trial for all new users</b>, giving you time to run real missions, 
+            build reports, and prove the value of SafetyDrone for your drone program.
+          </h2>
           <p style="color: #fff;"><b>2 Months Free Trial For All New Users</b></p>
         </div>
       </div>
