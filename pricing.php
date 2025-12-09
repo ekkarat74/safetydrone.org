@@ -98,17 +98,16 @@
             <br><br>
             We also understand you’re working with <b>taxpayer-funded, highly scrutinized budgets</b>
             that must be easy to justify. That’s why SafetyDrone is priced at just <b>$60 per user per year</b>
-            —roughly <b>75% less than our commercial plans</b>—making it realistic for police, fire, EMS, SAR, and 
-            emergency management teams of all sizes to standardize on a single drone 
-            operations platform.
+            —roughly <b>75% less than our commercial plans</b>—making it realistic for police, fire, EMS, 
+            SAR, and emergency management teams of all sizes to standardize on a single 
+            drone operations platform.
             <br><br>
             To keep SafetyDrone focused on true public safety users, we simply ask that you 
             <b>register with a government or official work email address.</b> 
             That’s it—no complicated procurement hoops just to get started.
             <br><br>
-            Want to test it first? There is a <b>free plan</b> so you can see how the 
-            core site works, explore the workflow, and validate it with your command 
-            staff before committing. And for agencies ready to dive deeper, we offer 
+            Want to test <b>it first</b>? There is a <b>free plan</b> so you can see how the core site works, 
+            explore the workflow, and validate it with your command staff <b>before committing.</b> And for agencies ready to dive deeper, we offer 
             a <b>2-month free trial for all new users</b>, giving you time to run real missions, 
             build reports, and prove the value of SafetyDrone for your drone program.
           </h2>
@@ -143,12 +142,20 @@
       <div class="divider" style="margin-bottom: 20px;"></div>
 
       <div style="padding-left: 40px; padding-right: 10px; padding-top: 40px;">
-        <p class="appstore__desc">The SafetyDrone solution is based on a cloud infrastructure with secure data storage, online web application
-          accompanied by our mobile application for offline access and easy synchronization with your cloud based account.
-          In addition, the mobile app provides you with access to the latest airspace status updates, local weather and
-          solar index reading that might affect your operations.</p>
+        <p class="appstore__desc">The SafetyDrone solution is based on a cloud infrastructure with 
+          secure data storage, online web application accompanied by our mobile 
+          application for offline access and easy synchronization with your 
+          cloud-based account. In addition, the mobile app provides you with access 
+          to the latest airspace status updates, local weather and solar index readings 
+          that might affect your operations.
+        </p>
         <br />
-        <p class="appstore__desc">Another Android mobile application, <b>DLBSync</b>, simplifies import of your flights from major mobile drone flight control apps natively to your SafetyDrone account. This app can sync flights into DLB Sync from your flight control apps when offline or in poor mobile coverage, then upload flights to SafetyDrone account when you have mobile or WIFI coverage.</p>
+        <p class="appstore__desc">Another Android mobile application, <b>DLBSync</b>, simplifies import of 
+          your flights from major mobile drone flight control apps natively to your SafetyDrone 
+          account. This app can sync flights into DLB Sync from your flight control apps when 
+          offline or in poor mobile coverage, then upload flights to SafetyDrone account when 
+          you have mobile or Wi-Fi coverage.
+        </p>
       </div>
 
       <div style="display: flex; padding-left: 20px; padding-right: 20px; align-items: flex-end;">
