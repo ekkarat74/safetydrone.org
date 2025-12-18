@@ -164,11 +164,11 @@
           <p>Choose the closest Category and add a short description in Message:</p>
           <h4>
             <ul>
-              <li><b>Web or Mobile App</b> – Issues with the portal, dashboards, or SafetyDrone mobile</li>
-              <li><b>Flight Log Importing</b> – Telemetry formats, integrations, missing flights</li>
-              <li><b>Login / Registration</b> – Access, passwords, or new account questions</li>
-              <li><b>Technical Issue / Feedback</b> – Bugs, feature ideas, or improvements</li>
-              <li><b>Partnership / Other</b> – Vendor, training, or general enquiries</li>
+              <li>• <b>Web or Mobile App</b> – Issues with the portal, dashboards, or SafetyDrone mobile</li>
+              <li>• <b>Flight Log Importing</b> – Telemetry formats, integrations, missing flights</li>
+              <li>• <b>Login / Registration</b> – Access, passwords, or new account questions</li>
+              <li>• <b>Technical Issue / Feedback</b> – Bugs, feature ideas, or improvements</li>
+              <li>• <b>Partnership / Other</b> – Vendor, training, or general enquiries</li>
             </ul>
             <p>Including your browser/device and any error text helps us resolve issues faster.</p>
           </h4>
