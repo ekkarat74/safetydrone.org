@@ -152,10 +152,43 @@
     <div class="page-wrapper">
       <div class="content-container">
         <div class="column-left">
-          <h1>Contact Us</h1>
-          <h2 class="sub-header long">SafetyDrone is yours. So help us to improve it and match all your needs. Since the launch of SafetyDrone, we
-            have received many helpful comments and suggestions for improvements. Thank you! We look forward to continuing
-            receive your feedback, so don't hesitate to contact us with the following form.</h2>
+          <h1>Contact SafetyDrone</h1>
+          <h2 class="sub-header long">Have a question about <b>public safety drone / UAS operations</b>, 
+            flight logging, or your SafetyDrone account? Use the form below to contact our team. 
+            We support <b>police, fire, EMS, SAR, and emergency management agencies</b> using drones for 
+            real-world incident response
+            <br>
+            Please use your <b>agency or government email</b> so we can verify you as a public safety user.
+          </h2>
+          <h2>How we can help</h2>
+          <p>Choose the closest Category and add a short description in Message:</p>
+          <h4>
+            <ul>
+              <li><b>Web or Mobile App</b> – Issues with the portal, dashboards, or SafetyDrone mobile</li>
+              <li><b>Flight Log Importing</b> – Telemetry formats, integrations, missing flights</li>
+              <li><b>Login / Registration</b> – Access, passwords, or new account questions</li>
+              <li><b>Technical Issue / Feedback</b> – Bugs, feature ideas, or improvements</li>
+              <li><b>Partnership / Other</b> – Vendor, training, or general enquiries</li>
+            </ul>
+            <p>Including your browser/device and any error text helps us resolve issues faster.</p>
+          </h4>
+        </div>
+        <div class="column-left">
+          <h1>New or existing users</h1>
+          <h2 class="sub-header long">Most enquiries receive an initial reply <b>within one business day</b>, 
+            with urgent production issues prioritised for active agencies.
+            <br><br>
+            If you’re just getting started, you can also:
+          </h2>
+          <h4>
+            <ul>
+              <li>Create a <b>free account</b> and explore the platform</li>
+              <li>Use your <b>2-month free trial</b> to test SafetyDrone with real missions</li>
+            </ul>
+            <p>For mobile-specific questions (checklists in the field, offline logging, DLBSync, etc.), 
+              select <b>“Mobile Application”</b> in the form.
+            </p>
+          </h4>
         </div>
       </div>
     </div>
