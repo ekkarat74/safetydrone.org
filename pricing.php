@@ -65,6 +65,7 @@
           <a href="pricing.php" class="nav-link">Pricing</a>
           <a href="partners.html" class="nav-link">Partners</a>
           <a href="faq.html" class="nav-link">FAQ </a>
+          <a href="Security.html" class="nav-link">Security</a>
           <a href="contact.php" class="nav-link">Contact Us </a>
           <a href="/profile/login.php" class="nav-link signIn">Sign In</a>
         </nav>
@@ -79,6 +80,7 @@
         <a href="pricing.php" class="nav-link">Pricing</a>
         <a href="partners.html" class="nav-link">Partners</a>
         <a href="faq.html" class="nav-link">FAQ </a>
+        <a href="Security.html" class="nav-link">Security</a>
         <a href="contact.php" class="nav-link">Contact Us </a>
         <a href="/profile/login.php" class="nav-link btn">Sign In</a>
       </nav>
